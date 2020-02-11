@@ -1,0 +1,14 @@
+.boxes {
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.05);
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  padding: 15px;
+  font-size: 0.8125em;
+}
+.boxes p {
+  font-size: large;
+  color: #00ccb1;
+}
